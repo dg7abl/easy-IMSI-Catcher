@@ -1,3 +1,5 @@
 /usr/src/gr-gsm# grgsm_scanner -b GSM900 --args=rtlsdr -v -d
 /usr/src/gr-gsm# grgsm_livemon --args=rtlsdr -f XXX.XXM
 /usr/src/IMSI-catcher# python3 ./simple_IMSI-catcher.py --sniff
+
+For XXX.XXM set your QRG
